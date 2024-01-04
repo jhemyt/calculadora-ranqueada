@@ -2,7 +2,7 @@
 
 ## 💻 Tecnologias
 
-* <a href="https://github.com/search?q=user%3ABrunoSalustiano+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+*  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
 *  https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
 
 **O Que deve ser utilizado**
